@@ -238,6 +238,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.10"
+  flutter_screenutil:
+    dependency: "direct main"
+    description:
+      name: flutter_screenutil
+      sha256: "1b61f8c4cbf965104b6ca7160880ff1af6755aad7fec70b58444245132453745"
+      url: "https://pub.dev"
+    source: hosted
+    version: "5.8.4"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -721,10 +729,10 @@ packages:
     dependency: transitive
     description:
       name: zego_uikit
-      sha256: "1dac44bd3b59073fe1744c3cbf879114266779534858388790005884805d8d5f"
+      sha256: "499374a201448adbb4c119fd5320b790b14ab9febba04f398c48fe4ff705bccb"
       url: "https://pub.dev"
     source: hosted
-    version: "2.5.13"
+    version: "2.5.14"
   zego_uikit_prebuilt_call:
     dependency: "direct main"
     description:
@@ -743,4 +751,4 @@ packages:
     version: "2.3.2+1"
 sdks:
   dart: ">=3.0.3 <4.0.0"
-  flutter: ">=3.3.0"
+  flutter: ">=3.10.0"
